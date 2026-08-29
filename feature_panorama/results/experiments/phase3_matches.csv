@@ -1,0 +1,5 @@
+method,image_pair,raw_knn_matches,initial_matches,matching_time
+sift,image1_image2,1693,628,0.095280
+sift,image2_image3,2024,693,0.123087
+orb,image1_image2,4797,1109,0.441525
+orb,image2_image3,5000,1711,0.421731

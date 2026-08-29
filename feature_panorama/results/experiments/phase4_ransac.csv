@@ -1,0 +1,5 @@
+method,image_pair,initial_matches,ransac_inliers,ransac_outliers,inlier_ratio,mean_reprojection_error,median_reprojection_error,max_reprojection_error,computation_time
+sift,image1_image2,628,431,197,0.686306,0.0654,0.0269,3.2671,0.008731
+sift,image2_image3,693,517,176,0.746032,0.1347,0.0746,2.0052,0.002094
+orb,image1_image2,1109,580,529,0.522994,0.4909,0.2240,4.6124,0.009499
+orb,image2_image3,1711,1313,398,0.767387,0.8892,0.7218,4.6437,0.006352

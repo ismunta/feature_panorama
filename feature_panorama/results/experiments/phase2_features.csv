@@ -1,0 +1,7 @@
+method,image,number_of_keypoints,descriptor_rows,descriptor_cols,feature_extraction_time
+sift,image1.jpg,1693,1693,128,0.393919
+orb,image1.jpg,4797,4797,32,0.228573
+sift,image2.jpg,2024,2024,128,0.386794
+orb,image2.jpg,5000,5000,32,0.062019
+sift,image3.jpg,2025,2025,128,0.388570
+orb,image3.jpg,4949,4949,32,0.057272

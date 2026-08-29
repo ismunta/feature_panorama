@@ -1,0 +1,3 @@
+method,panorama_width,panorama_height,valid_pixel_percentage,num_input_images
+sift,1612,922,97.12,3
+orb,1613,922,97.10,3
